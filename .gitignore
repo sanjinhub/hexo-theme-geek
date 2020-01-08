@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+.idea
+.DS_Store
+*.pyc
+Thumbs.db
+*/.DS_Store
+*/.idea/
+okay-conf.js
+.vscode/
