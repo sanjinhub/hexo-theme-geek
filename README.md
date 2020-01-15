@@ -79,7 +79,9 @@ highlight:
 
 <table>
   <tr>
-    <td align="center"><a target="_bank" href="https://github.com/sanjinhub"><img src="https://avatars1.githubusercontent.com/u/53846155?s=460&v=4" width="100px;" alt=""/><br /><sub><b>SanJin</b></sub></a></td>
-    <td align="center"><a target="_bank" href="https://github.com/li-xunhuan"><img src="https://avatars2.githubusercontent.com/u/10476982?s=460&v=4" width="100px;" alt=""/><br /><sub><b>李寻欢</b></sub></a></td>
+    <td align="center"><a target="_bank" href="https://github.com/sanjinhub">
+      <img src="https://avatars1.githubusercontent.com/u/53846155?s=460&v=4" width="100px;"  height="100px;" alt=""/>
+      <div><sub><b>SanJin</b></sub><div></a></td>
+    <td align="center"><a target="_bank" href="https://github.com/li-xunhuan"><img src="https://avatars2.githubusercontent.com/u/10476982?s=460&v=4" width="100px;" height="100px;"  alt=""/><div><sub><b>李寻欢</b></sub><div></a></td>
   </tr>
 </table>
