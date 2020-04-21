@@ -64,7 +64,9 @@ menu:
 
 # valine 评论 , 使用说明见 https://valine.js.org
 # 做了域名限制，请改成自己的 KEY
+# 如不使用valine功能，将enable设为false即可
 valine:
+  enable: true
   appId: CmCti21ooOOIzFOhEyFkFvR0-gzGzoHsz
   appKey: FqiyUqbg7McKN2eG0MCewupf
 
